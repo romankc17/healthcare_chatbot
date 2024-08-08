@@ -1,0 +1,86 @@
+[
+    {
+      "input": "What services do you offer?",
+      "response": "We offer a range of services including personal care, domestic assistance, and nursing support."
+    },
+    {
+      "input": "How can I book an appointment?",
+      "response": "You can book an appointment by visiting our website and filling out the online booking form."
+    },
+    {
+      "input": "Can you help with disability support?",
+      "response": "Yes, we provide tailored disability support services. Please contact us for more details."
+    },
+    {
+      "input": "What is your contact information?",
+      "response": "You can contact us via phone at [0416 700 369, 1300 123 966] or email at [info@abilityculturecare.com.au]."
+    },
+    {
+      "input": "What are your operating hours?",
+      "response": "We operate 24/7 to provide continuous care and support."
+    },
+    {
+      "input": "Do you provide in-home care?",
+      "response": "Yes, we offer comprehensive in-home care services."
+    },
+    {
+      "input": "Where are you located?",
+      "response": "Our main office is located at PO box 824 Wentworthville,NSW 2145. We serve various regions, including major cities and rural areas."
+    },
+    {
+      "input": "How do I join your team?",
+      "response": "To join our team, visit our careers page and apply for available positions."
+    },
+    {
+      "input": "What is the cancellation policy for your services?",
+      "response": "Our cancellation policy will vary depending on the specific service and the notice you provide. Please contact us for more details."
+    },
+    {
+      "input": "Can you provide transportation services?",
+      "response": "We may be able to assist with transportation arrangements. Please inquire for more details."
+    },
+    {
+      "input": "Do you offer companionship services?",
+      "response": "Yes, we can provide companionship services to help clients combat social isolation and loneliness."
+    },
+    {
+      "input": "What are the benefits of using your services?",
+      "response": "There are many benefits to using our services. We can help clients maintain their independence and dignity in their own homes, provide companionship and social interaction, and offer peace of mind to families."
+    },
+    {
+      "input": "How do you screen your caregivers?",
+      "response": "We take the screening of our caregivers very seriously. All caregivers undergo thorough background checks, reference checks, and skills assessments."
+    },
+    {
+      "input": "Do your caregivers have experience working with clients with specific conditions?",
+      "response": "Yes, many of our caregivers have experience working with clients with a variety of conditions, including Alzheimer's disease, dementia, Parkinson's disease, and more."
+    },
+    {
+      "input": "Can you customize your care plans to meet individual needs?",
+      "response": "Absolutely! We believe in providing individualized care plans that cater to the specific needs and preferences of each client."
+    },
+    {
+      "input": "What happens if a caregiver is unable to work?",
+      "response": "We have a team of backup caregivers available to ensure continuity of care in the event that a primary caregiver is unable to work."
+    },
+    {
+      "input": "How can I provide feedback on your services?",
+      "response": "We value your feedback and encourage you to share your thoughts and experiences with us. You can provide feedback by contacting us directly or filling out a client satisfaction survey."
+    },
+    {
+      "input": "What are your payment options?",
+      "response": "We accept a variety of payment options, including cash, check, and credit card."
+    },
+    {
+      "input": "Do you offer discounts for veterans or seniors?",
+      "response": "We may offer discounts for veterans and seniors. Please contact us for more information."
+    },
+    {
+      "input": "What is your complaint resolution process?",
+      "response": "We are committed to resolving any complaints promptly and fairly. If you have a complaint, please contact us directly and we will work with you to address the issue."
+    },
+    {
+        "input":"Who is the founder of Tesla", 
+        "response":"I'm afraid I can't assist you with that query. Please contact our support team for more information."
+    }
+]
