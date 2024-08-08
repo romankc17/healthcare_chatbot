@@ -2,19 +2,6 @@
 
 This project demonstrates the creation of a healthcare chatbot using the `transformers` library. The chatbot is designed to answer common questions related to healthcare services.
 
-## Project Structure
-
-chatbot-project/
-├── data/
-│ ├── chatbot_data.py
-│ └── chatbot_dataset.json
-├── models/
-│ └── chatbot_model.py
-├── train.py
-├── requirements.txt
-├── README.md
-
-
 
 ## Installation
 
